@@ -98,6 +98,7 @@ class Play extends React.Component {
     clearInterval(this.timerToAnswer);
     const score = this.countPoints(answerType);
     sendScore(score);
+    this.setState({ isDisabled: true });
   }
 
   countPoints = (answerType) => {
