@@ -7,10 +7,10 @@ Project developed together with [Alector](https://github.com/AlectorAlexander) a
 It develops a Q&A game based on Trivia.
 
 The user should be able to:
-* Login and have their Gravatar image associated to her profile (if there is one) 
+* Login and have their Gravatar image associated to their profile (if there is one) 
 * Chose answers for the presented questions
 * See the time to answer the question before it is considered wrong
-* After 5 questions, be redirect to the score page, where the text shown depends on the hits number
+* After 5 questions, be redirected to the score page, where the text shown depends on the hits number
 * View the ranking page
 ---
 🎯 **Objective**: put into practice the following abilities:
