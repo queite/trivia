@@ -32,7 +32,7 @@ The user should be able to:
 ---
 
 ### 🔎 Project Preview
-<img src="./src/image/Trivia.gif" width="800" />
+![App Screenshot](./src/image/Trivia.gif)
 
 &nbsp;
 
